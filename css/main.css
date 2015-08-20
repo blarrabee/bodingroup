@@ -1,0 +1,173 @@
+
+
+    
+    .divone {
+        background-color: #580000;
+        width: 200px;
+        height: 200px;
+        border: 6px solid white;
+        box-sizing: content-box;
+    }
+    .divtwo {
+        background-color: #E8E8E8 ;
+        width: 200px;
+        height: 200px;
+        border: 6px solid white;
+        box-sizing: content-box;
+    }
+    .divthree {
+        background-color: #580000;
+        width: 200px;
+        height: 200px;
+        border: 6px solid white;
+        box-sizing: content-box;
+    }
+    .divfour {
+        background-color: #F5D76E;
+        width: 200px;
+        height: 200px;
+        border: 6px solid white;
+        box-sizing: content-box;
+    }
+    .divfive {
+        background-color: #5C97BF;
+        width: 200px;
+        height: 200px;
+        border: 6px solid white;
+        box-sizing: content-box;
+    }
+    .divsix {
+        
+        background-color: #E4F1FE;
+        width: 200px;
+        height: 200px;
+        border: 6px solid white;
+        box-sizing: content-box;
+    }
+    .divseven {
+        
+        background-color: #CC9966;
+        width: 200px;
+        height: 200px;
+        border: 6px solid white;
+        box-sizing: content-box;
+    }
+    .diveight {
+        
+        background-color: #999966;
+        width: 200px;
+        height: 200px;
+        border: 6px solid white;
+        box-sizing: content-box;
+    }
+    
+    .divbk {
+        
+        background-color: #999966;
+        width: 200px;
+        height: 200px;
+        border: 6px solid white;
+        box-sizing: content-box;
+        background-image: url("/img/42-15591026.jpg");
+        background-size: 100% 100%;
+         background-repeat: no-repeat;
+    }
+    .divgirl {
+                background-color: #999966;
+        width: 200px;
+        height: 200px;
+        border: 6px solid white;
+        box-sizing: content-box;
+        background-image: url("/img/DVP1644009.JPG");
+        background-size: 100% 100%;
+         background-repeat: no-repeat;
+    }
+        .divguy {
+                background-color: #999966;
+        width: 200px;
+        height: 200px;
+        border: 6px solid white;
+        box-sizing: content-box;
+        background-image: url("/img/FAN2012084.JPG");
+        background-size: 100% 100%;
+         background-repeat: no-repeat;
+    }
+    
+
+    .container {
+      display: -webkit-flex;
+      display: flex;
+    }
+    .navbar {
+        height: 200px;
+        border-top: 1px solid #580000;
+        border-bottom: 1px solid #580000;
+        border-left: 1px solid white;
+        border-right: 1px solid white;
+        width: 100%;
+        
+    }
+    .navbar-header {
+    
+        padding-top: 75px;
+        width: 100%;
+        
+        
+    }
+    .flex-column {
+      -webkit-flex: 1;
+          flex: 1;
+}
+    #succeed {
+        
+    }
+    .navbar-slogan {
+        
+        position: relative;
+        color: #FFCC66;
+        text-align: center;
+    }    
+    .slogan {
+        font-weight: 100;
+    }
+        
+
+        
+    
+    .navbar-brand {
+        position: relative;
+        left: 33%;
+        bottom: 30px;
+        float: left;
+
+        
+        
+    }
+    .front-page {
+     -webkit-align-self: center; /* Safari 7.0+ */
+    align-self: center;
+    }
+    #body {
+        
+    }
+    .top-row {
+      padding-bottom: 15px;  
+    }
+    .logo {
+                height: 120px;
+        width: 120px;
+        padding-bottom: 45px;
+        
+    }
+    .black-kid {
+        
+    
+    }
+    .fp {
+        color: white;
+        text-align: center;
+        padding-top: 30%;
+        font-size: 170%;
+        font-weight: 100;
+    }
+    
